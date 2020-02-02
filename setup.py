@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pyDdiWsClient",
+    name="ddi_ws_client_py",
     version="0.0.1",
     keywords=["pip", "omicsDI", "WS-client"],
     description="web-service client of omicsDI API",
